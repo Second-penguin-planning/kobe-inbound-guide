@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>KobeGuide 全スポット</name>
+<Folder><name>🏥 病院</name>
+<Placemark><name>神戸大学医学部附属病院</name><description>神戸市中央区楠町7-5-2 / 078-382-5111 / 救急指定, 国際診療室, 外国語対応</description><Point><coordinates>135.1896,34.6896,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立医療センター中央市民病院</name><description>神戸市中央区港島南町2-1-1 / 078-302-4321 / 救急指定, 24時間対応, 高度救命救急</description><Point><coordinates>135.2044,34.6618,0</coordinates></Point></Placemark>
+<Placemark><name>兵庫県立こども病院</name><description>神戸市中央区港島南町1-6-7 / 078-945-7300 / 小児専門, 24時間救急</description><Point><coordinates>135.2054,34.6625,0</coordinates></Point></Placemark>
+<Placemark><name>神戸赤十字病院</name><description>神戸市中央区港島中町1-3-1 / 078-231-5981 / 救急指定, 輸血センター, 災害拠点病院</description><Point><coordinates>135.2006,34.671,0</coordinates></Point></Placemark>
+<Placemark><name>神戸掖済会病院</name><description>神戸市中央区橘通3-3-10 / 078-341-1321 / 救急指定, 海外旅行者対応</description><Point><coordinates>135.1868,34.6922,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立西市民病院</name><description>神戸市長田区細田町3-3-1 / 078-576-5251 / 救急指定, 総合診療</description><Point><coordinates>135.148,34.682,0</coordinates></Point></Placemark>
+<Placemark><name>甲南病院</name><description>神戸市東灘区岡本8-6-1 / 078-431-4101 / 救急対応, 内科外科</description><Point><coordinates>135.2684,34.7238,0</coordinates></Point></Placemark>
+<Placemark><name>神戸百年記念病院</name><description>神戸市須磨区須磨浦通4-1-1 / 078-735-3000 / 内科, 外科, 整形外科</description><Point><coordinates>135.1237,34.6285,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立西神戸医療センター</name><description>神戸市西区糀台6-1-1 / 078-929-1500 / 救急指定, 総合病院</description><Point><coordinates>135.0905,34.7142,0</coordinates></Point></Placemark>
+<Placemark><name>神戸海星病院</name><description>神戸市灘区岩屋北町3-11-15 / 078-871-5201 / 内科, 外科, 産婦人科</description><Point><coordinates>135.2181,34.7173,0</coordinates></Point></Placemark>
+<Placemark><name>神戸協同病院</name><description>神戸市長田区大谷町2-3-1 / 078-611-3984 / 救急対応, 内科</description><Point><coordinates>135.148,34.672,0</coordinates></Point></Placemark>
+<Placemark><name>垂水病院</name><description>神戸市垂水区日向2-5-1 / 078-754-2233 / 内科, 外科</description><Point><coordinates>134.9818,34.6337,0</coordinates></Point></Placemark>
+<Placemark><name>神戸労災病院</name><description>神戸市中央区港島南町1-4-7 / 078-302-2131 / 救急指定, 整形外科, 外傷</description><Point><coordinates>135.203,34.663,0</coordinates></Point></Placemark>
+<Placemark><name>兵庫県立加古川医療センター分院（神戸西）</name><description>神戸市西区伊川谷町有瀬322 / 078-997-2200 / 救急指定, 総合診療</description><Point><coordinates>135.063,34.698,0</coordinates></Point></Placemark>
+<Placemark><name>神戸低侵襲がん医療センター</name><description>神戸市中央区港島南町2-2-2 / 078-302-7000 / がん専門, 最先端治療</description><Point><coordinates>135.204,34.661,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>💊 薬局</name>
+<Placemark><name>マツモトキヨシ 三宮センタープラザ店</name><description>神戸市中央区三宮町1-10-1 / 078-331-1772 / 免税対応, 英語対応, 外国語スタッフ, 化粧品充実</description><Point><coordinates>135.1945,34.6929,0</coordinates></Point></Placemark>
+<Placemark><name>ウエルシア薬局 神戸元町店</name><description>神戸市中央区元町通1-7-1 / 078-391-2111 / 処方箋調剤, 英語対応</description><Point><coordinates>135.1851,34.6897,0</coordinates></Point></Placemark>
+<Placemark><name>ツルハドラッグ 神戸北野坂店</name><description>神戸市中央区山本通3-1-5 / 078-241-1882 / 観光地近く, 免税手続き</description><Point><coordinates>135.1878,34.6979,0</coordinates></Point></Placemark>
+<Placemark><name>スギ薬局 三宮店</name><description>神戸市中央区磯辺通2-1-8 / 078-271-3300 / 調剤薬局, 処方箋対応</description><Point><coordinates>135.197,34.6935,0</coordinates></Point></Placemark>
+<Placemark><name>ドラッグセイムス 神戸兵庫店</name><description>神戸市兵庫区駅前通1-3-4 / 078-681-2200 / 調剤, 日用品</description><Point><coordinates>135.162,34.682,0</coordinates></Point></Placemark>
+<Placemark><name>マツモトキヨシ 神戸元町駅前店</name><description>神戸市中央区元町通2-3-1 / 078-321-4455 / 免税対応, 化粧品</description><Point><coordinates>135.1831,34.6893,0</coordinates></Point></Placemark>
+<Placemark><name>ウエルシア 神戸灘店</name><description>神戸市灘区大石東町1-1-1 / 078-843-2200 / 調剤薬局, 処方箋</description><Point><coordinates>135.2288,34.7135,0</coordinates></Point></Placemark>
+<Placemark><name>トモズ 三宮店</name><description>神戸市中央区三宮町1-5-3 / 078-321-5500 / 外国語対応, 免税, 英語スタッフ</description><Point><coordinates>135.195,34.694,0</coordinates></Point></Placemark>
+<Placemark><name>コクミン薬局 三宮店</name><description>神戸市中央区三宮町2-11-1 / 078-331-3300 / 調剤, 市販薬充実</description><Point><coordinates>135.192,34.693,0</coordinates></Point></Placemark>
+<Placemark><name>ドラッグストアコスモス 神戸垂水店</name><description>神戸市垂水区日向1-1-1 / 078-755-0021 / 大型店舗, 日用品充実</description><Point><coordinates>134.9818,34.6337,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>🏧 ATM</name>
+<Placemark><name>セブン銀行ATM（セブンイレブン三宮駅前店）</name><description>神戸市中央区磯辺通3-2-16 /  / 24時間, 国際カード, VISA/Master/JCB/Amex</description><Point><coordinates>135.1952,34.6924,0</coordinates></Point></Placemark>
+<Placemark><name>セブン銀行ATM（三ノ宮駅構内）</name><description>神戸市中央区三宮町1-1-1 /  / 24時間, 国際カード対応</description><Point><coordinates>135.1955,34.6953,0</coordinates></Point></Placemark>
+<Placemark><name>ゆうちょ銀行ATM 神戸中央郵便局</name><description>神戸市中央区橘通1-4-2 / 0120-108-420 / 国際カード対応, Cirrus/PLUS</description><Point><coordinates>135.1936,34.6873,0</coordinates></Point></Placemark>
+<Placemark><name>みずほ銀行ATM 三宮支店</name><description>神戸市中央区三宮町1-4-3 /  / VISA/PLUS/Cirrus/Maestro</description><Point><coordinates>135.1927,34.693,0</coordinates></Point></Placemark>
+<Placemark><name>三菱UFJ銀行ATM 神戸三宮支店</name><description>神戸市中央区三宮町1-6-3 /  / VISA/Plus/Cirrus, 国際送金</description><Point><coordinates>135.194,34.6925,0</coordinates></Point></Placemark>
+<Placemark><name>三井住友銀行ATM 神戸支店</name><description>神戸市中央区三宮町2-1-1 /  / VISA/Plus/Cirrus</description><Point><coordinates>135.192,34.6918,0</coordinates></Point></Placemark>
+<Placemark><name>ローソン銀行ATM（ローソン神戸元町店）</name><description>神戸市中央区元町通2-1-5 /  / 24時間, 国際カード</description><Point><coordinates>135.1831,34.6893,0</coordinates></Point></Placemark>
+<Placemark><name>セブン銀行ATM（セブンイレブン神戸メリケンパーク前店）</name><description>神戸市中央区波止場町3-1 /  / 24時間, 国際カード</description><Point><coordinates>135.19,34.68,0</coordinates></Point></Placemark>
+<Placemark><name>イオン銀行ATM イオン神戸南店</name><description>神戸市中央区港島中町6-1-1 /  / VISA/Master, イオンモール内</description><Point><coordinates>135.204,34.667,0</coordinates></Point></Placemark>
+<Placemark><name>ゆうちょ銀行ATM 神戸北野郵便局</name><description>神戸市中央区山本通1-3-1 /  / 異人館エリア近く, 国際カード</description><Point><coordinates>135.187,34.699,0</coordinates></Point></Placemark>
+<Placemark><name>りそな銀行ATM 神戸支店</name><description>神戸市中央区三宮町2-4-1 /  / VISA/Plus/Cirrus/Maestro</description><Point><coordinates>135.191,34.691,0</coordinates></Point></Placemark>
+<Placemark><name>関西みらい銀行ATM 神戸三宮支店</name><description>神戸市中央区三宮町1-8-1 /  / 地方銀行ATM, 国際カード</description><Point><coordinates>135.193,34.692,0</coordinates></Point></Placemark>
+<Placemark><name>みずほ銀行ATM 元町支店</name><description>神戸市中央区元町通3-1-1 /  / VISA/Plus/Cirrus</description><Point><coordinates>135.184,34.6885,0</coordinates></Point></Placemark>
+<Placemark><name>セブン銀行ATM 神戸空港</name><description>神戸市中央区神戸空港1 /  / 24時間, 国際カード, 空港内</description><Point><coordinates>135.2238,34.6328,0</coordinates></Point></Placemark>
+<Placemark><name>三菱UFJ銀行ATM 神戸元町支店</name><description>神戸市中央区元町通4-1-1 /  / VISA/Plus/Cirrus</description><Point><coordinates>135.181,34.689,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>🆘 避難場所</name>
+<Placemark><name>東遊園地（広域避難場所）</name><description>神戸市中央区加納町6丁目 /  / 広域避難場所, 中央区, 収容多数</description><Point><coordinates>135.1959,34.6939,0</coordinates></Point></Placemark>
+<Placemark><name>兵庫県立総合体育館（避難場所）</name><description>神戸市中央区中野通1-2-1 / 078-371-2300 / 指定避難所, 屋内施設</description><Point><coordinates>135.1681,34.6935,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立葺合高校（避難場所）</name><description>神戸市中央区二宮町4-1-1 / 078-221-1222 / 地域避難所, 中央区指定</description><Point><coordinates>135.2011,34.6955,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市総合運動公園（広域避難場所）</name><description>神戸市須磨区緑台 / 078-792-3900 / 広域避難場所, 大規模</description><Point><coordinates>135.0981,34.6525,0</coordinates></Point></Placemark>
+<Placemark><name>HAT神戸なぎさ公園（避難場所）</name><description>神戸市中央区脇浜海岸通2丁目 /  / 広域避難場所, 海岸沿い</description><Point><coordinates>135.222,34.693,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立兵庫高校（避難場所）</name><description>神戸市兵庫区神田町2-1-1 / 078-651-1331 / 地域避難所, 兵庫区指定</description><Point><coordinates>135.163,34.682,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立須磨翔風高校（避難場所）</name><description>神戸市須磨区中落合2-13-1 / 078-793-7111 / 地域避難所, 須磨区指定</description><Point><coordinates>135.125,34.68,0</coordinates></Point></Placemark>
+<Placemark><name>神戸学院大学ポートアイランドキャンパス（避難場所）</name><description>神戸市中央区港島1-1-3 / 078-974-1551 / 広域避難所, 大学施設</description><Point><coordinates>135.207,34.665,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立垂水中学校（避難場所）</name><description>神戸市垂水区学が丘4-1 / 078-708-0085 / 地域避難所, 垂水区指定</description><Point><coordinates>134.982,34.636,0</coordinates></Point></Placemark>
+<Placemark><name>メリケンパーク（広域避難場所）</name><description>神戸市中央区波止場町2-2 / 078-325-2280 / 広域避難場所, 港エリア</description><Point><coordinates>135.1898,34.6797,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>🗼 観光</name>
+<Placemark><name>北野異人館街</name><description>神戸市中央区北野町 / 078-271-3311 / 歴史的建造物, 写真スポット, 洋館見学, 北野エリア</description><Point><coordinates>135.1853,34.7001,0</coordinates></Point></Placemark>
+<Placemark><name>風見鶏の館</name><description>神戸市中央区北野町3-13-3 / 078-242-3223 / 重要文化財, レンガ造り, 北野</description><Point><coordinates>135.1845,34.7018,0</coordinates></Point></Placemark>
+<Placemark><name>うろこの家</name><description>神戸市中央区北野町2-20-4 / 078-242-6530 / 異人館, 展望台あり</description><Point><coordinates>135.1842,34.7005,0</coordinates></Point></Placemark>
+<Placemark><name>神戸ポートタワー</name><description>神戸市中央区波止場町5-5 / 078-391-6751 / 展望台, 360度パノラマ, リニューアル済み, 夜景</description><Point><coordinates>135.1924,34.6793,0</coordinates></Point></Placemark>
+<Placemark><name>メリケンパーク</name><description>神戸市中央区波止場町2-2 / 078-325-2280 / 港の景観, 夜景スポット, 写真撮影</description><Point><coordinates>135.1898,34.6797,0</coordinates></Point></Placemark>
+<Placemark><name>南京町（神戸チャイナタウン）</name><description>神戸市中央区栄町通1-3丁目 / 078-332-2896 / 中華料理街, 食べ歩き, 観光名所</description><Point><coordinates>135.1859,34.6872,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立博物館</name><description>神戸市中央区京町24 / 078-391-0035 / 南蛮美術, 歴史展示, オーディオガイド</description><Point><coordinates>135.1938,34.6883,0</coordinates></Point></Placemark>
+<Placemark><name>六甲山</name><description>神戸市灘区六甲山町 / 078-891-0616 / 夜景スポット, ハイキング, 展望台</description><Point><coordinates>135.2426,34.7591,0</coordinates></Point></Placemark>
+<Placemark><name>神戸どうぶつ王国</name><description>神戸市灘区王子町3-1 / 078-861-5020 / 動物園, 家族向け, 子供連れ</description><Point><coordinates>135.2132,34.7178,0</coordinates></Point></Placemark>
+<Placemark><name>神戸海洋博物館</name><description>神戸市中央区波止場町2-2 / 078-327-8983 / 海事歴史, カワサキワールド</description><Point><coordinates>135.1912,34.6805,0</coordinates></Point></Placemark>
+<Placemark><name>UCC コーヒー博物館</name><description>神戸市中央区港島中町6-6-2 / 078-302-8880 / コーヒー歴史, 体験プログラム, カフェ</description><Point><coordinates>135.2093,34.6717,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立須磨海浜水族園</name><description>神戸市須磨区若宮町1-3-5 / 078-731-7301 / 水族館, イルカショー, 家族向け</description><Point><coordinates>135.1037,34.6283,0</coordinates></Point></Placemark>
+<Placemark><name>明石海峡大橋（舞子公園）</name><description>神戸市垂水区東舞子町2051 / 078-785-5090 / 世界最長吊橋, 展望施設, 絶景</description><Point><coordinates>134.977,34.635,0</coordinates></Point></Placemark>
+<Placemark><name>有馬温泉</name><description>神戸市北区有馬町 / 078-904-0708 / 温泉, 金泉銀泉, 日帰り入浴</description><Point><coordinates>135.2489,34.7982,0</coordinates></Point></Placemark>
+<Placemark><name>神戸ワイン城（神戸ワイナリー）</name><description>神戸市西区押部谷町高津橋1 / 078-976-6903 / ワイナリー, テイスティング, 農業公園</description><Point><coordinates>135.023,34.718,0</coordinates></Point></Placemark>
+<Placemark><name>旧居留地</name><description>神戸市中央区明石町 /  / 歴史地区, 欧風建築, ショッピング</description><Point><coordinates>135.191,34.688,0</coordinates></Point></Placemark>
+<Placemark><name>神戸布引ハーブ園</name><description>神戸市中央区北野町1-4-3 / 078-271-1160 / ロープウェイ, ハーブ園, 夜景</description><Point><coordinates>135.181,34.71,0</coordinates></Point></Placemark>
+<Placemark><name>竹中大工道具館</name><description>神戸市中央区熊内町7-5-1 / 078-242-0216 / 大工道具, 日本建築, 職人文化</description><Point><coordinates>135.189,34.701,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立王子競技場</name><description>神戸市灘区王子町3-1 / 078-822-3080 / スタジアム, サッカー, スポーツ観戦</description><Point><coordinates>135.213,34.718,0</coordinates></Point></Placemark>
+<Placemark><name>神戸ルミナリエ会場（東遊園地）</name><description>神戸市中央区加納町6丁目 /  / 冬季イルミネーション, 阪神淡路大震災慰霊</description><Point><coordinates>135.1959,34.6939,0</coordinates></Point></Placemark>
+<Placemark><name>神戸ファッション美術館</name><description>神戸市東灘区向洋町中2-9-1 / 078-858-0050 / ファッション, 衣装展示</description><Point><coordinates>135.2743,34.6909,0</coordinates></Point></Placemark>
+<Placemark><name>灘の酒蔵（菊正宗酒造記念館）</name><description>神戸市東灘区魚崎西町1-9-1 / 078-854-1029 / 日本酒, 酒蔵見学, 試飲</description><Point><coordinates>135.27,34.721,0</coordinates></Point></Placemark>
+<Placemark><name>白鶴酒造資料館</name><description>神戸市東灘区住吉南町4-5-5 / 078-822-8907 / 日本酒, 蔵元見学, 無料入館</description><Point><coordinates>135.263,34.719,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立垂水図書館（垂水観光拠点）</name><description>神戸市垂水区日向2-1-1 / 078-707-8888 / 観光案内, 地域情報</description><Point><coordinates>134.982,34.634,0</coordinates></Point></Placemark>
+<Placemark><name>摩耶山掬星台</name><description>神戸市灘区摩耶山町 / 078-861-2998 / 夜景日本一, 展望台, ロープウェイ</description><Point><coordinates>135.219,34.736,0</coordinates></Point></Placemark>
+<Placemark><name>神戸北野美術館</name><description>神戸市中央区北野町3-10-8 / 078-222-6766 / 現代美術, 北野エリア</description><Point><coordinates>135.185,34.701,0</coordinates></Point></Placemark>
+<Placemark><name>相楽園</name><description>神戸市中央区中山手通5-3-1 / 078-351-5155 / 日本庭園, 重要文化財, 茶室</description><Point><coordinates>135.185,34.697,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立中央図書館（観光情報）</name><description>神戸市中央区楠町7-2-1 / 078-371-3351 / 観光パンフレット, 多言語資料</description><Point><coordinates>135.189,34.691,0</coordinates></Point></Placemark>
+<Placemark><name>神戸港（ベイエリア）</name><description>神戸市中央区波止場町 /  / 港町散策, 夕日, クルーズ乗り場</description><Point><coordinates>135.188,34.68,0</coordinates></Point></Placemark>
+<Placemark><name>モザイク大観覧車</name><description>神戸市中央区東川崎町1-6-1 / 078-360-1920 / 観覧車, ハーバーランド, 夜景</description><Point><coordinates>135.184,34.676,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>🍜 飲食店</name>
+<Placemark><name>神戸牛ステーキ 但馬屋 三宮店</name><description>神戸市中央区三宮町1-8-1 / 078-391-1234 / 神戸牛, 英語メニュー, 免税対応</description><Point><coordinates>135.1931,34.6932,0</coordinates></Point></Placemark>
+<Placemark><name>南京町 老祥記（豚まん）</name><description>神戸市中央区元町通2-1-14 / 078-331-7714 / 豚まん, 行列店, テイクアウト</description><Point><coordinates>135.186,34.6878,0</coordinates></Point></Placemark>
+<Placemark><name>ハラールレストラン ニルファル</name><description>神戸市中央区元町通4-4-13 / 078-321-9876 / ハラール認証, 中東料理, ベジタリアン対応</description><Point><coordinates>135.181,34.6898,0</coordinates></Point></Placemark>
+<Placemark><name>インド料理 ガネーシャ 三宮</name><description>神戸市中央区三宮町3-6-18 / 078-321-0077 / ベジタリアン対応, ハラール, インドカレー</description><Point><coordinates>135.1893,34.6922,0</coordinates></Point></Placemark>
+<Placemark><name>ビーフン東 本店</name><description>神戸市中央区元町通5-7-3 / 078-341-1111 / 台湾料理, ビーフン専門, ベジタリアン対応</description><Point><coordinates>135.1798,34.6891,0</coordinates></Point></Placemark>
+<Placemark><name>IKEA 神戸（レストラン）</name><description>神戸市中央区港島中町6-6-1 / 078-304-5801 / スウェーデン料理, 外国語メニュー, ファミリー</description><Point><coordinates>135.208,34.671,0</coordinates></Point></Placemark>
+<Placemark><name>ムスリムフレンドリー スパイスカフェ</name><description>神戸市中央区北野町1-5-8 / 078-222-1234 / ハラール, スパイス料理, 北野エリア</description><Point><coordinates>135.186,34.699,0</coordinates></Point></Placemark>
+<Placemark><name>神戸牛炭火焼肉 ぐりる</name><description>神戸市中央区中山手通1-24-1 / 078-271-2233 / 神戸牛焼肉, 英語メニュー</description><Point><coordinates>135.19,34.696,0</coordinates></Point></Placemark>
+<Placemark><name>神戸フルーツ・フラワーパーク 大沢（レストラン）</name><description>神戸市北区大沢町上大沢2150 / 078-954-1001 / バイキング, 地元食材, 観光施設内</description><Point><coordinates>135.168,34.834,0</coordinates></Point></Placemark>
+<Placemark><name>中国料理 龍鳳 三宮</name><description>神戸市中央区三宮町2-3-5 / 078-331-5566 / 本格中華, 飲茶, 英語メニュー</description><Point><coordinates>135.192,34.6928,0</coordinates></Point></Placemark>
+<Placemark><name>モスバーガー 三宮OPA店</name><description>神戸市中央区三宮町1-7-2 / 078-321-4567 / 英語メニュー, ベジバーガー対応</description><Point><coordinates>135.1941,34.6935,0</coordinates></Point></Placemark>
+<Placemark><name>マクドナルド 三宮センタープラザ店</name><description>神戸市中央区三宮町1-10-1 / 078-331-3030 / 英語対応, 24時間営業, Wi-Fi</description><Point><coordinates>135.1945,34.6929,0</coordinates></Point></Placemark>
+<Placemark><name>スターバックス 神戸北野異人館店</name><description>神戸市中央区北野町3-1-31 / 078-230-6302 / 英語対応, 観光地内, Wi-Fi完備</description><Point><coordinates>135.1848,34.7008,0</coordinates></Point></Placemark>
+<Placemark><name>韓国料理 ソウル食堂 三宮</name><description>神戸市中央区三宮町3-8-11 / 078-321-7788 / 韓国料理, チゲ, 英語メニュー</description><Point><coordinates>135.1898,34.692,0</coordinates></Point></Placemark>
+<Placemark><name>ベトナム料理 フォービン 元町</name><description>神戸市中央区元町通3-15-6 / 078-333-2244 / フォー, ベトナム料理, ベジタリアン対応</description><Point><coordinates>135.183,34.689,0</coordinates></Point></Placemark>
+<Placemark><name>タイ料理 バンコク 三宮</name><description>神戸市中央区磯辺通3-1-8 / 078-241-9900 / タイ料理, ハラール対応, スパイシー</description><Point><coordinates>135.196,34.6926,0</coordinates></Point></Placemark>
+<Placemark><name>イタリアン ドルチェヴィータ 北野</name><description>神戸市中央区北野町4-6-5 / 078-271-5566 / 本格イタリアン, 北野エリア, ワイン充実</description><Point><coordinates>135.183,34.702,0</coordinates></Point></Placemark>
+<Placemark><name>フレンチレストラン ラ・メール</name><description>神戸市中央区波止場町2-2 / 078-327-1234 / フランス料理, 海の眺め, ドレスコードあり</description><Point><coordinates>135.19,34.68,0</coordinates></Point></Placemark>
+<Placemark><name>ハンバーガー the 662</name><description>神戸市中央区中山手通1-6-6 / 078-222-6620 / 神戸牛バーガー, アメリカンスタイル</description><Point><coordinates>135.188,34.6958,0</coordinates></Point></Placemark>
+<Placemark><name>スシロー 神戸駒ケ林店</name><description>神戸市長田区駒ケ林町4-2-1 / 078-641-5511 / 回転寿司, 英語タッチパネル, リーズナブル</description><Point><coordinates>135.155,34.672,0</coordinates></Point></Placemark>
+<Placemark><name>吉野家 三宮店</name><description>神戸市中央区三宮町1-3-2 / 078-325-5555 / 牛丼, 24時間営業, 英語メニュー</description><Point><coordinates>135.195,34.6938,0</coordinates></Point></Placemark>
+<Placemark><name>ガスト 神戸三宮店</name><description>神戸市中央区磯辺通1-1-18 / 078-262-3355 / ファミレス, 英語メニュー, 24時間</description><Point><coordinates>135.198,34.693,0</coordinates></Point></Placemark>
+<Placemark><name>バングラデシュ料理 ダッカキッチン</name><description>神戸市中央区元町通6-1-8 / 078-341-2288 / ハラール, バングラ料理, ネパール料理</description><Point><coordinates>135.178,34.6895,0</coordinates></Point></Placemark>
+<Placemark><name>ネパール料理 エベレスト 三宮</name><description>神戸市中央区三宮町3-12-5 / 078-332-8877 / ネパール料理, ダルバート, ハラール</description><Point><coordinates>135.1905,34.6915,0</coordinates></Point></Placemark>
+<Placemark><name>ムスリム対応ラーメン 清龍</name><description>神戸市中央区北野町2-8-4 / 078-241-6633 / ハラールラーメン, 豚肉不使用</description><Point><coordinates>135.1855,34.6995,0</coordinates></Point></Placemark>
+<Placemark><name>カフェ・ドムール ハーバーランド</name><description>神戸市中央区東川崎町1-7-2 / 078-360-2211 / カフェ, 港の眺め, Wi-Fi</description><Point><coordinates>135.1845,34.6765,0</coordinates></Point></Placemark>
+<Placemark><name>コメダ珈琲店 神戸三宮店</name><description>神戸市中央区三宮町2-8-1 / 078-321-3311 / 喫茶店, Wi-Fi, ゆったりくつろぎ</description><Point><coordinates>135.1925,34.6925,0</coordinates></Point></Placemark>
+<Placemark><name>マクドナルド 神戸空港店</name><description>神戸市中央区神戸空港1 / 078-304-3030 / 空港内, 英語対応</description><Point><coordinates>135.2238,34.6328,0</coordinates></Point></Placemark>
+<Placemark><name>サブウェイ 神戸三宮店</name><description>神戸市中央区三宮町1-6-1 / 078-325-5560 / サンドウィッチ, ベジタリアン対応</description><Point><coordinates>135.1948,34.6934,0</coordinates></Point></Placemark>
+<Placemark><name>ケンタッキーフライドチキン 三宮東口店</name><description>神戸市中央区加納町4-3-1 / 078-331-8888 / 英語対応, ハラール不可</description><Point><coordinates>135.1975,34.6942,0</coordinates></Point></Placemark>
+<Placemark><name>フードコート 神戸ハーバーランドumie</name><description>神戸市中央区東川崎町1-7-2 / 078-382-7100 / 多国籍料理, ショッピングモール内</description><Point><coordinates>135.184,34.676,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>🚃 交通</name>
+<Placemark><name>JR三ノ宮駅</name><description>神戸市中央区三宮町1丁目 / 0570-00-2486 / みどりの窓口, 外国語対応, ICカード, 新幹線連絡</description><Point><coordinates>135.1955,34.6953,0</coordinates></Point></Placemark>
+<Placemark><name>阪急神戸三宮駅</name><description>神戸市中央区加納町3-1-1 / 0570-089-500 / 英語案内, ICカード対応, 大阪梅田直通</description><Point><coordinates>135.1965,34.6945,0</coordinates></Point></Placemark>
+<Placemark><name>阪神神戸三宮駅</name><description>神戸市中央区三宮町1-1-1 / 06-6457-2222 / ICカード, 大阪難波直通</description><Point><coordinates>135.195,34.694,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市営地下鉄 三宮駅</name><description>神戸市中央区三宮町1丁目 / 078-322-6724 / ICカード, 市内全域連絡</description><Point><coordinates>135.195,34.6935,0</coordinates></Point></Placemark>
+<Placemark><name>神戸空港（マリンエア）</name><description>神戸市中央区神戸空港1 / 078-304-7777 / 国内線, 両替所, 免税店, タクシー乗り場</description><Point><coordinates>135.2238,34.6328,0</coordinates></Point></Placemark>
+<Placemark><name>神戸港 ポートターミナル</name><description>神戸市中央区港島中町7-1-4 / 078-303-2100 / 国際フェリー, クルーズ船, 入国審査</description><Point><coordinates>135.2099,34.6669,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市バス 三宮バスターミナル</name><description>神戸市中央区三宮町1丁目 / 078-771-5110 / 市内バス, 英語路線図あり</description><Point><coordinates>135.194,34.694,0</coordinates></Point></Placemark>
+<Placemark><name>神姫バス 三宮バスターミナル</name><description>神戸市中央区三宮町1-1-1 / 078-231-4892 / 高速バス, 関西各地</description><Point><coordinates>135.1945,34.6945,0</coordinates></Point></Placemark>
+<Placemark><name>ポートライナー 三宮駅</name><description>神戸市中央区三宮町1丁目 / 078-302-3110 / 空港連絡, 人工島アクセス, ICカード</description><Point><coordinates>135.196,34.694,0</coordinates></Point></Placemark>
+<Placemark><name>六甲ライナー マリンパーク駅</name><description>神戸市東灘区向洋町中3 / 078-857-9901 / 六甲アイランド, ICカード</description><Point><coordinates>135.27,34.71,0</coordinates></Point></Placemark>
+<Placemark><name>タクシー乗り場 JR三ノ宮駅東口</name><description>神戸市中央区三宮町1丁目 /  / 24時間タクシー, 英語対応ドライバーあり</description><Point><coordinates>135.1965,34.6955,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市レンタサイクル ポートアイランド</name><description>神戸市中央区港島中町 / 078-304-1003 / レンタサイクル, 観光移動</description><Point><coordinates>135.205,34.668,0</coordinates></Point></Placemark>
+<Placemark><name>JR新神戸駅（新幹線）</name><description>神戸市中央区加納町1-3-1 / 0570-00-2486 / 新幹線, 東京・広島直通, みどりの窓口</description><Point><coordinates>135.193,34.703,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市営地下鉄 新神戸駅</name><description>神戸市中央区加納町1丁目 / 078-322-6724 / 新幹線乗換, ICカード</description><Point><coordinates>135.1935,34.7035,0</coordinates></Point></Placemark>
+<Placemark><name>コインロッカー 三宮駅構内</name><description>神戸市中央区三宮町1丁目 /  / 荷物預かり, 各サイズ, 観光前に便利</description><Point><coordinates>135.1955,34.6945,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>🏛️ 行政</name>
+<Placemark><name>神戸市役所 外国人相談窓口</name><description>神戸市中央区加納町6-5-1 / 078-322-5001 / 住民登録, 在留手続, 多言語相談窓口</description><Point><coordinates>135.1957,34.6942,0</coordinates></Point></Placemark>
+<Placemark><name>德永良雄行政書士事務所</name><description>神戸市中央区（要問合せ） / 078-000-0000 / 在留資格申請, 帰化申請, ビザ相談, バングラ語, ネパール語対応</description><Point><coordinates>135.1956,34.6901,0</coordinates></Point></Placemark>
+<Placemark><name>大阪入国管理局 神戸港出張所</name><description>神戸市中央区波止場町1-1 / 0570-013-904 / 在留手続き, 資格変更, ビザ延長, 在留カード</description><Point><coordinates>135.1878,34.6802,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市 中央区役所</name><description>神戸市中央区橘通1-4-3 / 078-232-4411 / 住民票, 印鑑登録, 外国人登録</description><Point><coordinates>135.193,34.6885,0</coordinates></Point></Placemark>
+<Placemark><name>兵庫県国際交流協会（HYOGO-AI）</name><description>神戸市中央区山下町3-1 / 078-230-1451 / 多言語相談, 在住外国人支援, 生活情報</description><Point><coordinates>135.194,34.686,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市外国語大学 留学生センター</name><description>神戸市西区学園東町9-1 / 078-794-8121 / 留学相談, 多言語支援</description><Point><coordinates>135.106,34.697,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市立外国人学校（コリア国際学園）</name><description>神戸市長田区海運町4-4-1 / 078-611-8588 / 韓国語教育, コリアタウン近く</description><Point><coordinates>135.154,34.672,0</coordinates></Point></Placemark>
+<Placemark><name>領事館 中国総領事館 大阪（神戸対応）</name><description>大阪市北区西天満2-3-3 / 06-6445-9481 / ビザ申請, 領事業務（大阪対応）</description><Point><coordinates>135.501,34.6941,0</coordinates></Point></Placemark>
+<Placemark><name>韓国総領事館 大阪（神戸対応）</name><description>大阪市中央区西心斎橋1-7-9 / 06-6213-1401 / ビザ申請, 旅券（大阪対応）</description><Point><coordinates>135.498,34.673,0</coordinates></Point></Placemark>
+<Placemark><name>ハローワーク神戸（外国人雇用窓口）</name><description>神戸市中央区雲井通5-1-2 / 078-261-8609 / 就職支援, 在留資格確認, 外国人雇用</description><Point><coordinates>135.198,34.696,0</coordinates></Point></Placemark>
+<Placemark><name>神戸税関</name><description>神戸市中央区新港町12-1 / 078-333-3100 / 輸出入, 税関申告, 免税手続き</description><Point><coordinates>135.193,34.682,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市 生田区役所（中央区）</name><description>神戸市中央区中山手通6-1-1 / 078-232-4411 / 行政手続き全般</description><Point><coordinates>135.186,34.698,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市 兵庫区役所</name><description>神戸市兵庫区荒田町3-9-1 / 078-511-2111 / 住民票, 各種証明書</description><Point><coordinates>135.162,34.688,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市 灘区役所</name><description>神戸市灘区桜口町4-2-1 / 078-843-7001 / 住民票, 各種手続き</description><Point><coordinates>135.23,34.718,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市 東灘区役所</name><description>神戸市東灘区住吉東町5-2-1 / 078-841-4131 / 住民票, 各種手続き</description><Point><coordinates>135.262,34.723,0</coordinates></Point></Placemark>
+<Placemark><name>神戸市 須磨区役所</name><description>神戸市須磨区大黒町4-1-1 / 078-731-4341 / 住民票, 各種手続き</description><Point><coordinates>135.122,34.647,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

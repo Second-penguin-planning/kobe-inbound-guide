@@ -196,6 +196,9 @@
     <input class="search-input" type="search" id="searchInput" placeholder="施設・地名を検索 / Search..." oninput="handleSearch(this.value)">
     <button class="location-btn" id="locBtn" onclick="openLocModal()">📍 <span id="locLabel">取得中...</span></button>
   </div>
+  <div class="search-wrap" style="padding-top:0;">
+    <a class="location-btn" href="all-spots.html" style="display:inline-block; text-decoration:none;">🗺️ 全スポットを地図で見る</a>
+  </div>
   <div class="travel-toggle">
     <button class="travel-btn active" id="travel-walking"   onclick="setTravel('walking')">🚶 徒歩</button>
     <button class="travel-btn"        id="travel-transit"  onclick="setTravel('transit')">🚃 電車</button>
