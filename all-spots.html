@@ -94,20 +94,20 @@
 
   <div class="map-panel">
     <div class="map-panel-body">
-      <h2>📍 全スポットを1枚の地図で見る</h2>
-      <p>下の一覧は各カードから個別にGoogle Mapsを開けます。全スポットを同時にピン表示したい場合は、無料の<strong>Googleマイマップ</strong>に1回だけ取り込むと、この上に地図が埋め込まれます（APIキーは不要です）。</p>
+      <h2>🆘 緊急スポットを1枚の地図で見る</h2>
+      <p>下の一覧は各カードから個別にGoogle Mapsを開けます。病院・薬局・ATM・避難場所（赤の緊急スポット）だけを1枚の地図に同時ピン表示したい場合は、無料の<strong>Googleマイマップ</strong>に1回だけ取り込むと、この上に地図が埋め込まれます（APIキーは不要です）。</p>
       <ol id="setupSteps">
-        <li><a class="dl" href="all_spots_for_mymaps.csv" download>all_spots_for_mymaps.csv</a> をダウンロード</li>
+        <li><a class="dl" href="emergency_spots_for_mymaps.csv" download>emergency_spots_for_mymaps.csv</a>（緊急スポット50件）をダウンロード</li>
         <li><a class="dl" href="https://www.google.com/maps/d/" target="_blank" rel="noopener">Googleマイマップ</a>を開き「新しい地図を作成」</li>
-        <li>「インポート」から先ほどのCSVを取り込む（位置情報の列は <code>Location</code> を選択）</li>
-        <li>地図右上「共有」→「マイマップに埋め込む」でiframeコードを取得し、下の欄に<strong>src=""の中のURL</strong>だけ貼り付けて保存</li>
+        <li>「インポート」から先ほどのCSVを取り込む（位置情報の列は <code>Location</code> を選択。次のステップで緯度・経度としてプロットされているか確認）</li>
+        <li>地図タイトル右の<strong>「⋮」（縦三点リーダー）</strong>メニュー（「共有」ボタンとは別）→「地図をマイサイトに埋め込む」でiframeコードを取得し、下の欄に<strong>src=""の中のURL</strong>だけ貼り付けて保存</li>
       </ol>
       <div class="mid-form">
         <input id="midInput" type="text" placeholder="https://www.google.com/maps/d/embed?mid=... を貼り付け">
         <button class="btn btn-primary" onclick="saveMid()">保存して表示</button>
       </div>
       <div class="map-row">
-        <a class="btn btn-outline" href="all_spots.kml" download>⛰ KML形式でダウンロード</a>
+        <a class="btn btn-outline" href="emergency_spots.kml" download>⛰ KML形式でダウンロード</a>
         <button class="btn btn-outline" id="clearMidBtn" onclick="clearMid()" style="display:none;">埋め込みを解除</button>
       </div>
     </div>
